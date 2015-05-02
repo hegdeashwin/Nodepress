@@ -1,0 +1,23 @@
+{
+  "name": "nodepress",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hegdeashwin/Nodepress",
+  "authors": [
+    "hegdeashwin <ashwin.hegde3@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
